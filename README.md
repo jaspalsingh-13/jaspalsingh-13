@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaspalsingh
-- 👀 I’m interested in DLT
-- 🌱 I’m currently learning Python
+- 👀 I’m passionate about DLT
+- 🌱 I’m a constant learner
 - 💞️ I’m looking to collaborate on Blockchain projects 
 - 📫 How to reach me jaspal.ind@hotmail.com
 
